@@ -1,7 +1,7 @@
 ---
 title: "The Life Cycle of a Machine Learning Project"
-seoTitle: "what is artificial intelligence what is machine learning"
-seoDescription: "What is artificial intelligence ? What is machine learning ? How to learn machine learning? What is ChatGPT?"
+seoTitle: "ML PROJECT LIFE CYCLE / ARTIFICIAL INTELLIGENCE"
+seoDescription: "ML PROJECT LIFE CYCLE / ARTIFICIAL INTELLIGENCE"
 datePublished: Sun Apr 16 2023 14:36:20 GMT+0000 (Coordinated Universal Time)
 cuid: clgjifkc5000g09jvfe1x0ytv
 slug: the-life-cycle-of-a-machine-learning-project
