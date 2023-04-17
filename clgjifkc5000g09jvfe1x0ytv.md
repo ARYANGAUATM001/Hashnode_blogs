@@ -32,9 +32,9 @@ The Machine learning life cycle involves seven major steps, which are given belo
 
 1. **Gathering Data**
     
-2. **Data preparat**
+2. **Data preparation**
     
-3. **Data WrNG**
+3. **Data Wrangling**
     
 4. **Analyse Data**
     
@@ -71,7 +71,7 @@ This step can be further divided into two processes:
     Now the next step is preprocessing of data for its analysis.
     
 
-### 3\. Data WRANGLING
+### 3\. DATA WRANGLING
 
 Data wrangling is the process of cleaning and converting raw data into a usable format. It is the process of cleaning the data, selecting the variable to use, and transforming the data into a proper format to make it more suitable for analysis in the next step. It is one of the most important steps of the complete process. Cleaning of data is required to address the quality issues.
 
