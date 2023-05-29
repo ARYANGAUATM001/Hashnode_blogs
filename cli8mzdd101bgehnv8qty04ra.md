@@ -1,10 +1,10 @@
 ---
-title: "Dashing with Django: Unleash Your Web Development Superpowers"
+title: "Django Unleashed: Unleash Your Web Development Superpowers"
 seoTitle: "Learning Web Development with Python and Django"
 seoDescription: "Do you want to learn Django and become a web developer with Python. Let's explore Django."
 datePublished: Mon May 29 2023 09:17:39 GMT+0000 (Coordinated Universal Time)
 cuid: cli8mzdd101bgehnv8qty04ra
-slug: dashing-with-django-unleash-your-web-development-superpowers
+slug: django-unleashed-unleash-your-web-development-superpowers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685350033294/97e4ca48-3698-4b19-962d-057364466131.png
 tags: ai, artificial-intelligence, django, python3, chatgpt
 
