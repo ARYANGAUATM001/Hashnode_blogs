@@ -5,6 +5,7 @@ seoDescription: "Discover the world of web scraping in our comprehensive guide. 
 datePublished: Sat Sep 02 2023 08:43:09 GMT+0000 (Coordinated Universal Time)
 cuid: clm1s0skp00050amkb6xyft1g
 slug: web-scraping-a-guide-to-harvesting-data-from-the-web
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693649795168/aa5c515e-0e00-43ab-8f96-8e670f7c96e2.png
 tags: artificial-intelligence, python3, web-scraping, programming-tips, chatgpt
 
 ---
